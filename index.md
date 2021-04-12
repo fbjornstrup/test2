@@ -14,15 +14,14 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-  <td>Conda</td>
-  <td>
-    <a href="file:///Users/frederikbjornstrup/Desktop/6.%20Semester/Social%20Data%20and%20visuzalization/flowers.html">
-    <img src="https://pyviz.org/_static/cache/bokeh_conda_downloads_badge.svg"
-         alt="Conda downloads per month" />
-    </a>
-  </td>
-</tr>
-
+<iframe src="flowers.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 - Bulleted
 - List
 
