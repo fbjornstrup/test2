@@ -4,6 +4,15 @@ You can use the [editor on GitHub](https://github.com/fbjornstrup/test2/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Hej bro 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
 
 <iframe src="/assets/img/Bokeh/flowers.html"
     sandbox="allow-same-origin allow-scripts"
@@ -14,15 +23,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     frameborder="0">
 </iframe>
 
-### Hej bro 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
